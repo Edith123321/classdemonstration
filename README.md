@@ -1,16 +1,32 @@
-# classdemonstration
+# Container & Card Demo - Flutter Class Project
 
-A new Flutter project.
+This project demonstrates the use of `Container` and `Card` widgets in Flutter. It was built as part of a classroom assignment to showcase UI layout capabilities in a fun and structured way.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Overview
 
-A few resources to get you started if this is your first Flutter project:
+The app displays a simple profile card that includes:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- A rounded `Card` widget with elevation and padding
+- A `Container` for layout spacing
+- A `CircleAvatar` showing a profile image
+- Text elements displaying the user's name and description
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## Widgets Used
+
+| Widget        | Purpose                                      |
+|---------------|----------------------------------------------|
+| `Container`   | Adds padding and layout styling              |
+| `Card`        | Creates a material design profile card       |
+| `Column`      | Aligns children vertically                   |
+| `CircleAvatar`| Displays the profile image                   |
+| `Text`        | Shows name and description                   |
+
+---
+
+## Screenshot
+
+![App Screenshot](screenshots/screenshot.png)
