@@ -30,3 +30,19 @@ The app displays a simple profile card that includes:
 ## Screenshot
 
 ![App Screenshot](screenshots/screenshot.png)
+
+##  How to Run
+
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/edith123321/classdemonstration.git
+   ```
+
+2. Open it in VS Code or Android Studio:
+3. Run:
+   ```bash
+   flutter pub get
+   flutter run
+
+   ```
+
